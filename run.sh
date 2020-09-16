@@ -1,3 +1,3 @@
 #! /usr/bin/bash
 
-./main.py
+game/main.py
