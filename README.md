@@ -1,5 +1,4 @@
 # Tictactoe (Linux version)
-=========
 
 This is a Tic-tac-toe game developed with [Python 3.8](https://www.python.org/) and [Pygame](https://www.pygame.org/news).
 
