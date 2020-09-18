@@ -1,5 +1,5 @@
-height = 900
-width = 900
+height = 600
+width = 600
 white = [255, 255, 255]
 black = [0, 0, 0]
 red = [255, 0, 0]
